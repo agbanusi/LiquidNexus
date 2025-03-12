@@ -1,14 +1,14 @@
-## NexusLend: Bridging Liquidity, Empowering Credit
+## Nebular Finance: Bridging Liquidity, Empowering Credit
 
 <br>
 
 ## Description
 
-NexusLend is a forward-thinking, multi-chain lending protocol that disrupts traditional liquidity models. It lets you borrow against your staked assets without having to worry about collateral or bridging hassles. The protocol aggregates assets from across chains to unlock flexible, collateral-free borrowing—up to 70% of your total staked value, or even 90% if your credit score is in the top tier. NexusLend provides an intuitive interface for both casual users and degens looking for higher yields.
+Nebular Finance is a forward-thinking, multi-chain lending protocol that disrupts traditional liquidity models. It lets you borrow against your staked assets without having to worry about collateral or bridging hassles. The protocol aggregates assets from across chains to unlock flexible, collateral-free borrowing—up to 70% of your total staked value, or even 90% if your credit score is in the top tier. Nebular Finance also connects to traditional institutions allowing you to use your off-chain collaterals to take on-chain loans and use your on-chain credit score and collateral to access off-chain loans.
 
 ## Overview
 
-NexusLend redefines liquidity by aggregating staked assets across chains. It enables users to access liquidity without the need for traditional collateral—leveraging a dynamic credit scoring system and a mobile-focused UX to deliver a seamless, cross-chain lending experience.
+Nebular Finance redefines liquidity by aggregating staked assets across chains. It enables users to access liquidity without the need for traditional collateral—leveraging a dynamic credit scoring system and a mobile-focused UX to deliver a seamless, cross-chain lending experience.
 
 ## Key Features
 
@@ -32,6 +32,8 @@ NexusLend redefines liquidity by aggregating staked assets across chains. It ena
 - Interest & Rewards: Earn interest on your staked assets to offset impermanent loss while taking advantage of competitive APYs.
 
 - Cross-Chain Access: Leverage a unique liquidity switcher that allows you to borrow on any chain without physically moving your assets.
+
+- Off-Chain Access to Loans: Leverage your off-chain collateral to get on-chain assets seamlessly through traditional institutions integrations
 
 ## Roadmap & Future Directions
 
